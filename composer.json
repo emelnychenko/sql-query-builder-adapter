@@ -1,0 +1,10 @@
+{
+    "name": "melnyin/sql-query-builder-adapter",
+    "description": "SQL Query Builder Adapter (php5.5+, mysql)",
+    "autoload": {
+        "psr-4": { "MI\\SQL\\QB\\": ["src/"] }
+    },
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
